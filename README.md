@@ -1,3 +1,17 @@
 # Visualization
 visualization
 ![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/discussion.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/walking.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/eating.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/greeting.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/phoning.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/posing.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/purchases.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/sitting.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/sittingdown.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/smoking.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/takingphoto.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/waiting.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/walkingtogether.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/walkingdog.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/Visualization/blob/main/gif/directions.gif)
